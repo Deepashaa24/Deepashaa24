@@ -42,7 +42,7 @@ A frontend-based period tracking application designed for user-friendly health m
 
 ### 🏢 Leave Management System
 Frontend system for managing leave requests and approvals.  
-**Tech:** HTML, CSS, JavaScript  
+**Tech:** MERN STACK 
 **Features:** Leave form submission, status tracking, organized layout.
 
 ---
