@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Deepasha Bisht
-**A Aspirational FullStack Developer ||MERN Stack || Open to Internships
+#  Hi 👋, I'm Deepasha Bisht
+**Aspirational FullStack Developer ||MERN Stack || Open to Internships**
 
-Email Me 👉 ✉️ **deepashabisht24@navgurukul.org** For Collaboration/Project or Anything Else. 😊😊
+Email Me  **deepashabisht24@navgurukul.org** For Collaboration/Project or Anything Else.
 
 - 🔭 **I’m currently working on:** JIRA clone project
 - 🌱 **I’m currently learning:** MERN STACK
