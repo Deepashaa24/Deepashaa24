@@ -1,90 +1,24 @@
-# Hi, I'm Deepasha 👋  
 
-💻 A Frontend Developer passionate about building responsive and user-friendly web applications.  
-🎓 BCA Student focused on building real-world projects.  
-🚀 I love turning ideas into interactive web experiences using JavaScript and React.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1284004207195721816) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.deepashaaa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/deepashabisht) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/3Boky34HG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepashabisht24@navgurukul.org) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Deepashaa24&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Deepashaa24&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepashaa24&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- DOM Manipulation
-- Git & GitHub
-- Responsive Design
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Deepashaa24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 Featured Projects
-
-### ☕ Café Website
-A modern responsive café landing page with smooth layout and clean UI design.  
-**Tech:** HTML, CSS, JavaScript  
-**Features:** Responsive layout, menu section, interactive UI.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Deepashaa24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Deepashaa24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌍 Countries Data Visualization
-Dynamic country filtering and sorting application using external data.  
-**Tech:** JavaScript, DOM  
-**Features:** Real-time search, sorting, population display.
-
----
-
-### 🩸 Period Tracker Web App
-A frontend-based period tracking application designed for user-friendly health monitoring.  
-**Tech:** HTML, CSS, JavaScript  
-**Features:** Date tracking, cycle calculation, clean UI.
-
----
-
-### 🏢 Leave Management System
-Frontend system for managing leave requests and approvals.  
-**Tech:** MERN STACK 
-**Features:** Leave form submission, status tracking, organized layout.
-
----
-
-### 🛒 Amazon Clone
-Responsive e-commerce UI with cart functionality and dark mode toggle.  
-**Tech:** HTML, CSS, JavaScript  
-**Features:** Add to cart, fake cart counter, modern UI design.
-
----
-
-### 📝 Quiz App
-Interactive quiz application using DOM and localStorage.  
-**Tech:** JavaScript  
-**Features:** Score tracking, dynamic questions, local storage usage.
-
----
-
-## 🌱 Currently Learning
-- Advanced React
-- State Management
-- Backend Fundamentals
-- Building Full Stack Projects
-
----
-
-## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/deepashabisht
-- Email: deepashabisht4@gmail.com
-
-
-<!--
-**Deepashaa24/Deepashaa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
