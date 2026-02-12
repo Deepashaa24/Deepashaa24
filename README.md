@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Deepasha Bisht
-**A Aspirational FullStack Developer || DevOps Engineer || Kafka Admin from India**
+**A Aspirational FullStack Developer ||MERN Stack || Open to Internships
 
 Email Me 👉 ✉️ **deepashabisht24@navgurukul.org** For Collaboration/Project or Anything Else. 😊😊
 
