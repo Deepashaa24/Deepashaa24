@@ -4,7 +4,7 @@
 Email Me  **deepashabisht4@gmail.com** For Collaboration/Project or Anything Else.
 
 -  **I’m currently working on:** JIRA clone project
--  **I’m currently learning:** MERN STACK
+-  **Working Stack:** MERN STACK
 -  **How to reach me:** deepashabisht4@gmail.com
 
 
